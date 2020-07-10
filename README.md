@@ -63,7 +63,6 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [ ] [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** [1:06:53]
 * [ ] [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** [1:07:10]
 * [ ] [Functional Programming Design Patterns](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin) by **Scott Wlaschin** [1:49:10]
-* [ ] [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** [1:03:40]
 * [ ] [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** [42:42]
 * [ ] [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** [42:17]
 * [ ] [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** [1:15:18]
@@ -100,18 +99,14 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [ ] [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** [10:14:37]
 * [ ] [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** [49:06]
 * [ ] [The Better Parts](https://www.youtube.com/watch?v=bo36MrBfTk4) by **Douglas Crockford** [01:00:52]
-* [ ] [Introduction to Node.js](http://www.yuiblog.com/blog/2010/05/20/video-dahl/) by **Ryan Dahl** [58:19]
 * [ ] [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** [4:17]
 * [ ] [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** [29:22]
 * [ ] [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** [36:30]
 * [ ] [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** [21:39]
 * [ ] [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** [27:25]
-* [ ] [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** [41:42]
 * [ ] [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** [32:07]
 * [ ] [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** [41:10]
-* [ ] [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** [53:40]
 * [ ] [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** [46:17]
-* [ ] [ClojureScript for Skeptics ](https://www.youtube.com/watch?v=gsffg5xxFQI) by **Derek Slager** [41:08]
 
 #### Test-Driven Development
 
